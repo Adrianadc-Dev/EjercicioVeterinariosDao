@@ -11,3 +11,21 @@
 [2024-08-11 10:06:41] [ INFO ] [VeterinarioEnMemoria:17] [guardar] veterinario guardadoVeterinario{id=1, numeroLicencia=628, nombre='alberto', apellido='scarpetta', especialidad='loros'}
 [2024-08-11 10:06:41] [ INFO ] [VeterinarioEnMemoria:17] [guardar] veterinario guardadoVeterinario{id=2, numeroLicencia=628, nombre='alberto', apellido='scarpetta', especialidad='loros'}
 [2024-08-11 10:06:41] [ INFO ] [VeterinarioEnMemoria:23] [listarTodos] los veterinarios que hay actualmente son [Veterinario{id=1, numeroLicencia=628, nombre='alberto', apellido='scarpetta', especialidad='loros'}, Veterinario{id=2, numeroLicencia=628, nombre='alberto', apellido='scarpetta', especialidad='loros'}]
+[2024-08-11 10:16:11] [ INFO ] [VeterinarioEnMemoria:17] [guardar] veterinario guardadoVeterinario{id=1, numeroLicencia=628, nombre='alberto', apellido='scarpetta', especialidad='loros'}
+[2024-08-11 10:16:11] [ INFO ] [VeterinarioEnMemoria:17] [guardar] veterinario guardadoVeterinario{id=2, numeroLicencia=628, nombre='alberto', apellido='scarpetta', especialidad='loros'}
+[2024-08-11 10:16:11] [ INFO ] [VeterinarioEnMemoria:26] [listarTodos] veterinario = java.util.ArrayList$ListItr@6b4a4e18
+[2024-08-11 10:16:11] [ INFO ] [VeterinarioEnMemoria:26] [listarTodos] veterinario = java.util.ArrayList$ListItr@27c86f2d
+[2024-08-11 10:16:11] [ INFO ] [VeterinarioEnMemoria:26] [listarTodos] veterinario = java.util.ArrayList$ListItr@197d671
+[2024-08-11 10:18:36] [ INFO ] [VeterinarioEnMemoria:17] [guardar] veterinario guardadoVeterinario{id=1, numeroLicencia=628, nombre='alberto', apellido='scarpetta', especialidad='loros'}
+[2024-08-11 10:18:36] [ INFO ] [VeterinarioEnMemoria:17] [guardar] veterinario guardadoVeterinario{id=2, numeroLicencia=628, nombre='alberto', apellido='scarpetta', especialidad='loros'}
+[2024-08-11 10:18:36] [ INFO ] [VeterinarioEnMemoria:25] [listarTodos] lista de veterinarios
+[2024-08-11 10:25:29] [ INFO ] [DaoH2Veterinario:81] [listarTodos] Veterinario{id=1, numeroLicencia=123, nombre='JUAN', apellido='PEREZ', especialidad='PERROS'}
+[2024-08-11 10:25:29] [ INFO ] [DaoH2Veterinario:81] [listarTodos] Veterinario{id=2, numeroLicencia=425, nombre='PEPITO', apellido='TORRES', especialidad='GATOS'}
+[2024-08-11 10:26:12] [ INFO ] [VeterinarioEnMemoria:17] [guardar] veterinario guardadoVeterinario{id=1, numeroLicencia=628, nombre='alberto', apellido='scarpetta', especialidad='loros'}
+[2024-08-11 10:26:12] [ INFO ] [VeterinarioEnMemoria:17] [guardar] veterinario guardadoVeterinario{id=2, numeroLicencia=628, nombre='alberto', apellido='scarpetta', especialidad='loros'}
+[2024-08-11 10:26:12] [ INFO ] [VeterinarioEnMemoria:23] [listarTodos] los veterinarios que hay actualmente son 
+[2024-08-11 10:27:20] [ INFO ] [VeterinarioEnMemoria:17] [guardar] veterinario guardadoVeterinario{id=1, numeroLicencia=628, nombre='alberto', apellido='scarpetta', especialidad='loros'}
+[2024-08-11 10:27:20] [ INFO ] [VeterinarioEnMemoria:17] [guardar] veterinario guardadoVeterinario{id=2, numeroLicencia=628, nombre='alberto', apellido='scarpetta', especialidad='loros'}
+[2024-08-11 10:27:20] [ INFO ] [VeterinarioEnMemoria:23] [listarTodos] los veterinarios que hay actualmente son 
+[2024-08-11 10:27:20] [ INFO ] [VeterinarioEnMemoria:26] [listarTodos] Veterinario{id=1, numeroLicencia=628, nombre='alberto', apellido='scarpetta', especialidad='loros'}
+[2024-08-11 10:27:20] [ INFO ] [VeterinarioEnMemoria:26] [listarTodos] Veterinario{id=2, numeroLicencia=628, nombre='alberto', apellido='scarpetta', especialidad='loros'}

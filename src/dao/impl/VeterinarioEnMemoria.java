@@ -20,7 +20,12 @@ public class VeterinarioEnMemoria implements Idao<Veterinario> {
 
     @Override
     public List<Veterinario> listarTodos() {
-        logger.info("los veterinarios que hay actualmente son " + veterinarios);
+        logger.info("los veterinarios que hay actualmente son ");
+
+        for (Integer i = 0; i <veterinarios.size(); i++){
+           logger.info( veterinarios.get(i));
+        }
         return veterinarios;
+
     }
 }
