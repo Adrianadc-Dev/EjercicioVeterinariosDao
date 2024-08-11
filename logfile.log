@@ -1,0 +1,13 @@
+[2024-08-11 08:27:29] [ INFO ] [DaoH2Veterinario:38] [guardar] veterinario guardado: Veterinario{id=3, numeroLicencia=628, nombre='alberto', apellido='scarpetta', especialidad='loros'}
+[2024-08-11 08:30:51] [ INFO ] [DaoH2Veterinario:81] [listarTodos] Veterinario{id=1, numeroLicencia=123, nombre='JUAN', apellido='PEREZ', especialidad='PERROS'}
+[2024-08-11 08:30:51] [ INFO ] [DaoH2Veterinario:81] [listarTodos] Veterinario{id=2, numeroLicencia=425, nombre='PEPITO', apellido='TORRES', especialidad='GATOS'}
+[2024-08-11 08:43:40] [ INFO ] [VeterinarioEnMemoria:17] [guardar] veterinario guardadoVeterinario{id=1, numeroLicencia=628, nombre='alberto', apellido='scarpetta', especialidad='loros'}
+[2024-08-11 08:51:39] [ INFO ] [VeterinarioEnMemoria:17] [guardar] veterinario guardadoVeterinario{id=1, numeroLicencia=628, nombre='alberto', apellido='scarpetta', especialidad='loros'}
+[2024-08-11 09:00:45] [ INFO ] [VeterinarioEnMemoria:23] [listarTodos] los veterinarios que hay actualmente son []
+[2024-08-11 09:11:52] [ INFO ] [VeterinarioEnMemoria:23] [listarTodos] los veterinarios que hay actualmente son []
+[2024-08-11 09:57:28] [ INFO ] [VeterinarioEnMemoria:17] [guardar] veterinario guardadoVeterinario{id=1, numeroLicencia=628, nombre='alberto', apellido='scarpetta', especialidad='loros'}
+[2024-08-11 09:57:28] [ INFO ] [VeterinarioEnMemoria:17] [guardar] veterinario guardadoVeterinario{id=2, numeroLicencia=628, nombre='alberto', apellido='scarpetta', especialidad='loros'}
+[2024-08-11 09:57:28] [ INFO ] [VeterinarioEnMemoria:23] [listarTodos] los veterinarios que hay actualmente son [Veterinario{id=1, numeroLicencia=628, nombre='alberto', apellido='scarpetta', especialidad='loros'}, Veterinario{id=2, numeroLicencia=628, nombre='alberto', apellido='scarpetta', especialidad='loros'}]
+[2024-08-11 10:06:41] [ INFO ] [VeterinarioEnMemoria:17] [guardar] veterinario guardadoVeterinario{id=1, numeroLicencia=628, nombre='alberto', apellido='scarpetta', especialidad='loros'}
+[2024-08-11 10:06:41] [ INFO ] [VeterinarioEnMemoria:17] [guardar] veterinario guardadoVeterinario{id=2, numeroLicencia=628, nombre='alberto', apellido='scarpetta', especialidad='loros'}
+[2024-08-11 10:06:41] [ INFO ] [VeterinarioEnMemoria:23] [listarTodos] los veterinarios que hay actualmente son [Veterinario{id=1, numeroLicencia=628, nombre='alberto', apellido='scarpetta', especialidad='loros'}, Veterinario{id=2, numeroLicencia=628, nombre='alberto', apellido='scarpetta', especialidad='loros'}]
